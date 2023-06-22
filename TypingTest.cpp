@@ -11,7 +11,7 @@ const int MAX_WORD_LENGTH = 30;
 void generateRandomWords(string words[MAX_WORDS], int testWords) {
     string wordList[] = {"apple", "banana", "cherry", "date", "elderberry", 
     "fig", "grape", "honeydew", "implementation", "jackfruit", "sajjad","the", "quick", "brown", 
-    "fox", "jumps", "over", "the", "lazy", "dog", , "shithy", "shurovi", "sowrove"}; //We can add more words here
+    "fox", "jumps", "over", "the", "lazy", "cat", "shithy", "shurovi", "sowrove", "arnob"}; //We can add more words here
     srand(time(NULL));
     
     for (int i = 0; i < testWords; i++) {
