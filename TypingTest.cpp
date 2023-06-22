@@ -103,6 +103,7 @@ int main() {
         //Restart Button
         cout << "\nDo you want to restart? (Y/N): ";
         cin >> restart;
+        if(tolower(restart) == 'y')system("cls"); 
     } while (tolower(restart) == 'y');
     
     cout << "\nThank you for using our program!\n";
