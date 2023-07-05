@@ -1,4 +1,6 @@
-# Typing-Speed-Accuracy-Test-Project
+# Typing Speed and Accuracy Test Project
+This is my first programming based project. <br>
+
 Typing speed and accuracy test is a way to measure how quickly and accurately an individual can type. It assesses your ability to type words, phrases, or sentences within a given time limit and provides an evaluation of your performance. <br>
 
 Typing speed is typically measured in words per minute (WPM) or characters per minute (CPM). It indicates how many words or characters you can type within a minute. <br>
