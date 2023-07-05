@@ -15,4 +15,5 @@ This is my first programming based project. <br>
 <li>Download the <a href="https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project/raw/master/TypingTest.exe">TypingTest.exe<a> file. </li>
 <li>Run the file and follow the instructions. </li>
 </ol>
+For More details about this project <a href="https://drive.google.com/file/d/1si7F45GZf1Xrx7RpdHHS7eQhZC56mZp6/view">Click Here</a>
 <h2>Thank You</h2>
