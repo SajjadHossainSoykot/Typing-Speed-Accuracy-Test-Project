@@ -8,7 +8,7 @@ Accuracy measures how many errors you make while typing. It is usually expressed
 <h2 style="color: blue">How to take the test?</h2>
 To take a typing speed and accuracy test, you are usually provided with a text passage that you need to type. The test starts as you begin typing, and the timer is set to track the time it takes to complete the task. <br>
 
-Once you finish typing the passage, the test calculates your typing speed and accuracy based on the number of words or characters you typed correctly within the allotted time.
+Once you finish typing the passage, the test calculates your typing speed and accuracy based on the number of words or characters you typed correctly within the allotted time. <br>
 
 Download the <a href="https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project/raw/master/TypingTest.exe">TypingTest.exe<a> file. Run the file and follow the instructions.
 <h2>Thank You</h2>
